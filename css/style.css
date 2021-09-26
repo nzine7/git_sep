@@ -13,7 +13,7 @@ a {
   height: 200px;
   background: aqua;
   margin: 50px;
-  transition: 2; }
+  transition: 0.5s; }
   #box:hover {
     transform: rotate(360deg) scale(2); }
 
